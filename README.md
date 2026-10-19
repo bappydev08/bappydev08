@@ -1,31 +1,57 @@
-## 🛠️ Technologies & Tools
+# Hi, I'm Bappy 👋
 
-### 💻 Programming & Frameworks
-<img src="https://shields.io" /> <img src="https://shields.io" />
+**Flutter Developer in Training | Dart | Building Practical Android Apps**
 
-### ⚙️ Development Tools
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-### 📱 Application Development
-- ⚡ **Responsive UI:** Creating adaptive layouts for all screen sizes.
-- 🌐 **REST API & JSON:** Integrating back-end services and handling data serialization.
-- 🧠 **State Management:** Managing complex application states effectively.
-- 💾 **Local Database:** Working with SQL and modern local storage solutions.
-- 🔍 **Error Handling & Testing:** Implementing robust error handling and writing application tests.
-
-### 🏗️ Architecture & Engineering
-- 📐 **Clean Architecture:** Building modular, scalable, and maintainable codebases.
-- 🔐 **Auth & Security:** Implementing secure User Authentication & Authorization.
-- 🗄️ **Database Migrations:** Handling structured schema upgrades seamlessly.
-- 🧪 **Testing Matrix:** Writing comprehensive Unit, Widget, and Integration tests.
-
-### 🚀 DevOps & Deployment (Learning Goals 🎯)
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io⚡-orange?style=flat-square" />
-- Automated workflows and continuous integration setup.
-- Cross-platform application build and official app store release processes.
-
-### 🎯 Additional Languages & Ecosystems
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+I am a beginner Flutter developer from Dhaka, Bangladesh. I learn by building real apps, and I am working towards my first Flutter developer job.
 
 ---
-*💡 **Note:** Skills listed above reflect my actual experience. Advanced technologies (like DevOps tools & native languages) are currently included as active learning goals until I can confidently deploy them in production-ready projects.*
+
+## 🛠️ Skills I Use
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+- Responsive UI development in Flutter
+- REST API and JSON
+- State management (**write the one you really used here, e.g. Provider / Riverpod**)
+- Local database (SQLite / SQL basics)
+- Basic error handling
+
+## 🌱 Currently Learning
+
+- Clean Architecture fundamentals
+- Authentication with Firebase
+- Unit, Widget and Integration testing
+- GitHub Actions (CI/CD basics)
+- Building and releasing Android apps
+
+> I only list what I have actually used under "Skills I Use". Everything else is a learning goal until I use it confidently in a real project.
+
+---
+
+## 📱 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| **MoneyMate** | Personal money tracker app in Flutter (Taka, bKash / Nagad) | 🚧 In progress |
+| **School / Coaching Center Management** | Management app idea for schools in Bangladesh | 📝 Planning |
+
+*(Add the real repository links here after you push your code.)*
+
+---
+
+## 📫 Contact
+
+- Email: **your-email@gmail.com**
+- LinkedIn: **your-linkedin-link**
+- Location: Dhaka, Bangladesh
+
+---
+
+⭐ Thanks for visiting my profile!
