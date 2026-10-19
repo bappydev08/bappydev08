@@ -1,38 +1,31 @@
-# Hi 👋, I'm Bappy
+## 🛠️ Technologies & Tools
 
-### Flutter Developer in Training | Dart | Cross-Platform Development
+### 💻 Programming & Frameworks
+<img src="https://shields.io" /> <img src="https://shields.io" />
 
-I'm learning Flutter and Dart to build applications for Android, iOS, and Desktop using a shared codebase.
+### ⚙️ Development Tools
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-## 👨‍💻 About Me
+### 📱 Application Development
+- ⚡ **Responsive UI:** Creating adaptive layouts for all screen sizes.
+- 🌐 **REST API & JSON:** Integrating back-end services and handling data serialization.
+- 🧠 **State Management:** Managing complex application states effectively.
+- 💾 **Local Database:** Working with SQL and modern local storage solutions.
+- 🔍 **Error Handling & Testing:** Implementing robust error handling and writing application tests.
 
-- 🌱 Currently learning Flutter and Dart
-- 📱 Interested in Android and iOS app development
-- 💻 Exploring Windows, macOS, and Linux desktop development
-- 🧩 Learning clean architecture, APIs, databases, and testing
-- 🛠️ Tools: VS Code, Android Studio, Git, and GitHub
-- 🎯 Goal: Build maintainable, cross-platform applications
+### 🏗️ Architecture & Engineering
+- 📐 **Clean Architecture:** Building modular, scalable, and maintainable codebases.
+- 🔐 **Auth & Security:** Implementing secure User Authentication & Authorization.
+- 🗄️ **Database Migrations:** Handling structured schema upgrades seamlessly.
+- 🧪 **Testing Matrix:** Writing comprehensive Unit, Widget, and Integration tests.
 
-## 🧰 Tech Stack
+### 🚀 DevOps & Deployment (Learning Goals 🎯)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io⚡-orange?style=flat-square" />
+- Automated workflows and continuous integration setup.
+- Cross-platform application build and official app store release processes.
 
-- **Language:** Dart
-- **Framework:** Flutter
-- **Platforms:** Android, iOS, Windows, macOS, Linux
-- **Tools:** VS Code, Android Studio, Git, GitHub
-- **Currently Learning:** State management, REST APIs, databases, and software architecture
+### 🎯 Additional Languages & Ecosystems
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-## 🚀 Projects
-
-- **MoneyMate** — Personal finance application built with Flutter.
-- **AdShield** — Android application focused on browsing protection.
-- **Dart Practice** — Dart fundamentals and programming exercises.
-
-*Project features and development status are documented in their respective repositories.*
-
-## 📌 Current Focus
-
-Building a strong foundation in Dart and Flutter, writing maintainable code, and learning to develop applications across multiple platforms.
-
-## 🤝 Connect
-
-- GitHub: https://github.com/bappydev08
+---
+*💡 **Note:** Skills listed above reflect my actual experience. Advanced technologies (like DevOps tools & native languages) are currently included as active learning goals until I can confidently deploy them in production-ready projects.*
