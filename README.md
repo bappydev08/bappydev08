@@ -1,36 +1,38 @@
+# Hi 👋, I'm Bappy
 
-<h1 align="center">Hi 👋, I'm Bappy</h1>
+### Flutter Developer in Training | Dart | Cross-Platform Development
 
-<h3 align="center">
-  Flutter Developer in Training | Dart | Android Development
-</h3>
-
-<p align="center">
-  I'm learning Flutter and building practical mobile applications.
-</p>
-
----
+I'm learning Flutter and Dart to build applications for Android, iOS, and Desktop using a shared codebase.
 
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning Flutter and Dart
-- 📱 Interested in Android app development
-- 🧰 Tools: VS Code, Android Studio, Git and GitHub
-- 🚀 Working on personal software projects
-- 🎯 Goal: Build useful, reliable mobile applications
+- 📱 Interested in Android and iOS app development
+- 💻 Exploring Windows, macOS, and Linux desktop development
+- 🧩 Learning clean architecture, APIs, databases, and testing
+- 🛠️ Tools: VS Code, Android Studio, Git, and GitHub
+- 🎯 Goal: Build maintainable, cross-platform applications
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,androidstudio,vscode,git,github)
+- **Language:** Dart
+- **Framework:** Flutter
+- **Platforms:** Android, iOS, Windows, macOS, Linux
+- **Tools:** VS Code, Android Studio, Git, GitHub
+- **Currently Learning:** State management, REST APIs, databases, and software architecture
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+- **MoneyMate** — Personal finance application built with Flutter.
+- **AdShield** — Android application focused on browsing protection.
+- **Dart Practice** — Dart fundamentals and programming exercises.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+*Project features and development status are documented in their respective repositories.*
 
----
+## 📌 Current Focus
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+Building a strong foundation in Dart and Flutter, writing maintainable code, and learning to develop applications across multiple platforms.
+
+## 🤝 Connect
+
+- GitHub: https://github.com/bappydev08
