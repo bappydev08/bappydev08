@@ -48,8 +48,8 @@ I am a beginner Flutter developer from Dhaka, Bangladesh. I learn by building re
 
 ## 📫 Contact
 
-- Email: 
-- LinkedIn: 
+- Email: bappyhaldar65@gmail.com
+- LinkedIn: linkedin.com/in/bappy-kumar-haldar
 - Location: Dhaka, Bangladesh
 
 ---
