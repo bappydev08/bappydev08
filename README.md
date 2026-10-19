@@ -39,7 +39,7 @@ I am a beginner Flutter developer from Dhaka, Bangladesh. I learn by building re
 
 | Project | Description | Status |
 |---|---|---|
-| **MoneyMate** | Personal money tracker app in Flutter (Taka, bKash / Nagad) | 🚧 In progress |
+| **MoneyMate** | Personal money tracker app in Flutter | 🚧 In progress |
 | **School / Coaching Center Management** | Management app idea for schools in Bangladesh | 📝 Planning |
 
 *(Add the real repository links here after you push your code.)*
@@ -48,8 +48,8 @@ I am a beginner Flutter developer from Dhaka, Bangladesh. I learn by building re
 
 ## 📫 Contact
 
-- Email: **your-email@gmail.com**
-- LinkedIn: **your-linkedin-link**
+- Email: 
+- LinkedIn: 
 - Location: Dhaka, Bangladesh
 
 ---
