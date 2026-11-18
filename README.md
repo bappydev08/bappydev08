@@ -47,7 +47,7 @@ I am a Flutter Developer Trainee and Computer Technology diploma student from Dh
 
 ## 📫 Let's Connect
 
-- **Portfolio:** [bappydev-portfolio.vercel.app](https://vercel.app)
+- **Portfolio:** bappydev-portfolio.vercel.app
 - **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 - **Location:** Dhaka, Bangladesh
 
