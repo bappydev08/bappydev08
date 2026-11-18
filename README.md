@@ -4,7 +4,7 @@
 
 I am a Flutter Developer Trainee and Computer Technology diploma student from Dhaka, Bangladesh. I believe in learning by building real applications, writing clean Dart code, and structuring mobile apps that stay maintainable as they grow.
 
-🌐 **Portfolio:** [bappydev-portfolio.vercel.app](https://vercel.app)
+🌐 **Portfolio:** [https://bappydev-portfolio.vercel.app/](https://vercel.app)
 
 ---
 
