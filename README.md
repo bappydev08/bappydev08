@@ -1,12 +1,14 @@
-# Hi, I'm Bappy 👋
+# Hi, I'm Bappy Kumar Haldar 👋
 
-**Flutter Developer in Training | Dart | Building Practical Android Apps**
+**Junior Flutter Developer | Dart | Building Practical Android Apps**
 
-I am a beginner Flutter developer from Dhaka, Bangladesh. I learn by building real apps, and I am working towards my first Flutter developer job.
+I am a Flutter Developer Trainee and Computer Technology diploma student from Dhaka, Bangladesh. I believe in learning by building real applications, writing clean Dart code, and structuring mobile apps that stay maintainable as they grow.
+
+🌐 **Portfolio:** [bappydev-portfolio.vercel.app](https://vercel.app)
 
 ---
 
-## 🛠️ Skills I Use
+## 🛠️ Skills & Toolbox
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -17,41 +19,38 @@ I am a beginner Flutter developer from Dhaka, Bangladesh. I learn by building re
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-- Responsive UI development in Flutter
-- REST API and JSON
-- State management (**write the one you really used here, e.g. Provider / Riverpod**)
-- Local database (SQLite / SQL basics)
-- Basic error handling
+- **Core Mobile:** Dart Fundamentals, Object-Oriented Programming (OOP), Flutter Widgets, Material Design & Responsive UI Layouts
+- **App Lifecycle & State:** `StatefulWidget`, `setState()`, `initState()`, `build()`, `dispose()`, and App Navigation
+- **Backend & Storage:** Local Storage, REST API & JSON handling, and Firebase (core services used in projects)
+- **Testing & Release:** Debugging, Physical Device Testing, and Signed Android Release APK Generation
 
 ## 🌱 Currently Learning
 
-- Clean Architecture fundamentals
-- Authentication with Firebase
-- Unit, Widget and Integration testing
+- Clean Architecture fundamentals & scalable folder structures
+- Advanced State Management patterns (Provider / Riverpod)
+- Unit, Widget, and Integration testing
 - GitHub Actions (CI/CD basics)
-- Building and releasing Android apps
 
-> I only list what I have actually used under "Skills I Use". Everything else is a learning goal until I use it confidently in a real project.
-
----
-
-## 📱 Projects
-
-| Project | Description | Status |
-|---|---|---|
-| **MoneyMate** | Personal money tracker app in Flutter | 🚧 In progress |
-| **School / Coaching Center Management** | Management app idea for schools in Bangladesh | 📝 Planning |
-
-*(Add the real repository links here after you push your code.)*
+> *I only list technologies under "Skills & Toolbox" that I have actively used in projects. Everything else stays in my learning roadmap until I apply it confidently.*
 
 ---
 
-## 📫 Contact
+## 📱 Featured Work & Repositories
 
-- Email: 
-- LinkedIn: 
-- Location: Dhaka, Bangladesh
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **MoneyMate** | Personal finance tracker featuring multi-currency support, biometric app lock, and local storage (tested on physical devices as a signed APK). | `Flutter` `Dart` `Firebase` | 🚀 Built / Testing |
+| **[Dart Practice Portfolio](https://github.com)** | Structured Dart projects covering OOP, collections, input validation, and unit testing. | `Dart` | ✅ Active |
+| **[Cloverse Studio Website](https://cloverse.studio)** | Official responsive business website with service catalogs and project inquiry workflows. | `Next.js` `TypeScript` `Tailwind` | 🌐 Live |
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Let's Connect
+
+- **Portfolio:** [bappydev-portfolio.vercel.app](https://vercel.app)
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **Location:** Dhaka, Bangladesh
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories or reach out to collaborate.*
